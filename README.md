@@ -28,3 +28,9 @@ Owner
 Admin
 **username : admin1**
 **password : qwerty123**
+
+Siswa
+**username : yogaapsy**
+**password : qwerty123**
+
+**Don't forget click :star: for my :heart: github.**
