@@ -3,9 +3,6 @@ Bimbel B'smart adalah sistem informasi sederhana untuk pendaftaran siswa bimbel 
 
 ![alt text](https://raw.githubusercontent.com/YogaAPSY/bimbel-online/master/Screenshot_78.png)
 
-# cara install
-download atau clone file
-> git clone https://github.com/YogaAPSY/bimbel-online atau bisa langsung download file.
 
 buat database
 > buat database dengan nama bimble db, lalu import file sql didalam project
